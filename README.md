@@ -7,9 +7,7 @@
 
 - 🤝 I’m looking for help with **Python Tkinter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/heypious](https://github.com/heypious)
-
-- 💬 Ask me about **data hoarding and torrenting**
+- 💬 Ask me about **Piracy**
 
 - ⚡ Fun fact **I think I am funny**
 
